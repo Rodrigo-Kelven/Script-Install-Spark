@@ -1,4 +1,7 @@
-# Instalação Automática do Apache Spark com Java 17
+## Instalação Automática do Apache Spark com Java 17
+
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 #### Este script realiza a instalação automática do Apache Spark 4.0.1 com Hadoop 3, juntamente com a instalação ou atualização do Java 17, se necessário. O objetivo é garantir que o Spark e o Java estejam corretamente configurados para a execução de tarefas distribuídas e interativas.
 
