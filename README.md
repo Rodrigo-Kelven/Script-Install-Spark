@@ -68,6 +68,8 @@
 
 **Se tudo ocorrer corretamente, a instalação do Apache Spark será concluída com sucesso e o spark-shell estará funcionando.**
 
+### Execute o spark Shell:
+          spark-shell
 
 ## O que é o Apache Spark?
 
